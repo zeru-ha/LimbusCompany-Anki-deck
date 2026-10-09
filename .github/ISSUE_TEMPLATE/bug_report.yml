@@ -1,0 +1,54 @@
+name: 报告错误
+description: 报告牌组中的错误（语音对不上、释义错误、缺漏等）
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢帮忙捉虫！请尽量填写完整，尤其是**来源码**——它在卡片背面最底部的"来源："后面。
+  - type: input
+    id: srccode
+    attributes:
+      label: 来源码
+      description: 卡片底部显示的代码，例如 S101B#3
+      placeholder: S101B#3
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 问题类型
+      options:
+        - 语音对不上（放出来不是这句）
+        - 逐词释义错误
+        - 词典释义错误
+        - 汉字错误
+        - 分词错误
+        - 中文翻译问题
+        - 缺漏 / 重复卡片
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: korean
+    attributes:
+      label: 韩文原句
+      description: 复制卡片正面的内容
+      render: text
+    validations:
+      required: false
+  - type: textarea
+    id: desc
+    attributes:
+      label: 问题描述
+      description: 哪里不对？正确的应该是？
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: 牌组版本 / 日期
+      placeholder: 2026-10-09
+    validations:
+      required: false
