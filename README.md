@@ -135,7 +135,7 @@ A：词典与例句较多。可在 Anki 卡片模板中隐藏不需要的部分�
 
 - 剧情、图像、语音：**Project Moon**
 - 中文翻译：**都市零协会汉化组 (LocalizeLimbusCompany)**
-- 韩汉词典：**Naver**（民间提取版）
+- 韩汉词典：**Naver**（民间提取版）, freedict论坛, 上面还有一些韩英, 韩日的辞典, 如果觉得卡组里这个不好可以自己看看
 - 汉字词表：**Kengdic**
 - 形态素分析：**KoNLPy / Komoran**
 - 牌组生成：**genanki**
