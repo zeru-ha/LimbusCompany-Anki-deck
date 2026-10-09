@@ -23,3 +23,6 @@ __pycache__/
 # 本地配置
 config_local.py
 .env
+
+# deck-source 原始大文件（仓库里只放压缩版 notes.csv.gz）
+deck-source/notes.csv
