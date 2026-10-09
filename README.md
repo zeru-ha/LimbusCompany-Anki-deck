@@ -8,6 +8,12 @@
 
 </div>
 
+<div align="center">
+  <img src="preview_front.png" alt="正面：韩文原句" width="44%">
+  <img src="preview_back.png" alt="背面：中文原句 / 逐词 / 词典 / 语音" width="44%">
+  <br><sub>左：正面（韩文原句）　右：背面（中文原句 + 逐词 + 词典 + 语音）</sub>
+</div>
+
 ## 前言
 
 这是一个《边狱公司》(Limbus Company) 剧情向 Anki 牌组，把**全部主线剧情+配音**（序章 + 第 1~10 章,后续会加上间章和人格剧情）做成了 24,509 张卡片，用来**通过游戏剧情学韩语**。
