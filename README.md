@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="preview_front.png" alt="正面：韩文原句" width="44%">
-  <img src="preview_back_v2.png" alt="背面：中文原句 / 逐词 / 词典 / 语音" width="44%">
+  <img src="preview_back.png" alt="背面：中文原句 / 逐词 / 词典 / 语音" width="44%">
   <br><sub>左：正面（韩文原句）　右：背面（中文原句 + 逐词 + 词典 + 语音）</sub>
 </div>
 
