@@ -65,7 +65,7 @@
 ### 范围与分类
 
 - 覆盖**序章 + 第 1~10 章**（Canto I–X）、**间章**与**人格剧情**，合计 **31,785 张卡片**。
-- 分为 **19 个牌组**：`0 Prologue`、`Canto I` … `Canto X`、`Interlude 1` ~ `Interlude 8`（间章，独立）、`Personality`。
+- 分为 **19 个牌组**，按故事顺序排列：`00 Prologue`、`01 Canto I`、`01 Interlude 1`、`02 Canto II` … `08 Interlude 8`、`09 Canto IX`、`10 Canto X`、`99 Personality`（编号前缀用于排序；`Interlude N` 为对应 Canto 之后的间章）。
 - **人格剧情**每个故事合成为**一张卡片**（整篇展示）；正面为**基础形态**立绘、背面为**三突形态**立绘。
 - 每个**场景码**（如 `S101B`）作为 tag，可自行用搜索/筛选牌组只练某一幕。
 
