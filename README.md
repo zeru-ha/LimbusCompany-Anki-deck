@@ -1,5 +1,7 @@
 # 边狱公司 剧情韩语 Anki 牌组【全主线 · 中文 · 语音 · 逐词】
 
+**简体中文** ｜ [English](README.en.md)
+
 <div align="center">
 
 [![Releases](https://img.shields.io/badge/下载-Releases-2e6ce6?style=for-the-badge&logo=github)](../../releases/latest)
