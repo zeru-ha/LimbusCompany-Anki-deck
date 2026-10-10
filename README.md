@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Releases](https://img.shields.io/badge/下载-Releases-2e6ce6?style=for-the-badge&logo=github)](../../releases/latest)
+[![Releases](https://img.shields.io/badge/下载-Releases-2e6ce6?style=for-the-badge&logo=github)](../../releases/tag/v1.2)
 [![Issues](https://img.shields.io/badge/反馈-Issues-ea4aaa?style=for-the-badge&logo=github)](../../issues)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=for-the-badge)](LICENSE)
 
@@ -59,7 +59,7 @@
 └─ .github/ISSUE_TEMPLATE/
 ```
 
-- **只想用牌组**：直接去 [Releases](../../releases/latest) 下 `.apkg` 导入即可，`deck-source/` 与 `scripts/` 无需理会。
+- **只想用牌组**：直接去 [Releases](../../releases/tag/v1.2) 下 `.apkg` 导入即可，`deck-source/` 与 `scripts/` 无需理会。
 - **想自行重建**：`scripts/` 是生成脚本；但要注意它们依赖你**本机的游戏文件与词典**，详见脚本内的 `config.example.py`。
 
 ## 牌组内容
@@ -99,7 +99,7 @@
 
 0. 请使用**官方最新版 Anki** 或 AnkiDroid；不保证兼容旧版 Anki 或 AnkiApp / AnkiPro 等类 Anki 应用。
 
-1. 打开本仓库的 [Releases](../../releases/latest) 页面，下载最新版 `.apkg` 文件（约 **1.66 GB**，请只下载 `.apkg`）。
+1. 打开本仓库的 [Releases](../../releases/tag/v1.2) 页面，下载最新版 `.apkg` 文件（约 **1.66 GB**，请只下载 `.apkg`）。
 2. 在 Anki 中导入该文件：`文件 → 导入`。
 3. 首次同步到手机端媒体较多，会比较慢，请保持 Anki 前台运行。
 

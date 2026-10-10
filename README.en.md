@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Releases](https://img.shields.io/badge/Download-Releases-2e6ce6?style=for-the-badge&logo=github)](../../releases/latest)
+[![Releases](https://img.shields.io/badge/Download-Releases-2e6ce6?style=for-the-badge&logo=github)](../../releases/tag/v1.2-en)
 [![Issues](https://img.shields.io/badge/Feedback-Issues-ea4aaa?style=for-the-badge&logo=github)](../../issues)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=for-the-badge)](LICENSE)
 
@@ -44,7 +44,7 @@ Each card: **front = the Korean line → back = the English translation + word-b
 
 ## Download & install
 
-1. Open [Releases](../../releases/latest) and download the **English** `.apkg` (about **1.6 GB**).
+1. Open [Releases](../../releases/tag/v1.2-en) and download the **English** `.apkg` (about **1.6 GB**).
 2. In Anki: `File → Import`.
 3. First sync to mobile is slow (lots of audio) — keep Anki in the foreground.
 
